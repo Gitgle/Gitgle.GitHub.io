@@ -9,9 +9,7 @@ tags: [Shadowsocks]
 
 Life is short. The world is big.
 
-Shadowsocks免费节点分享。
-
-[Freeid.xyz](https://freeid.xyz/)
+Shadowsocks免费节点分享 [Freeid.xyz](https://freeid.xyz/)
 
 
 
