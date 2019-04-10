@@ -4,8 +4,8 @@ description: '科技新知分享'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: ''
+email: '1417400@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,21 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    Gitgle:
+      name:           Gitgle
+      site:           https://gitgle.github.io/
       avatar:         https://gitgle.github.io/assets/images/logo.png
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         https://gitgle.github.io/assets/images/logo.png
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "https://gitgle.github.io/"
+      email:          1417400@gmail.com
+      twitter:        
  
 # Defaults
 defaults:
@@ -43,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: '/assets/images/avatar1.jpg'
+      author: Gitgle
+      avatar: '/assets/images/logo.png'
       
   # all pages
   - scope:
