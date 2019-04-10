@@ -5,7 +5,7 @@ categories: [ Gitgle ]
 image: assets/images/Shadowrocket.JPG
 ---
 
-小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位
+小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位。
 
 免费SS/SSR服务器节点获取：[Freeid.xyz](http://freeid.xyz/)
 
