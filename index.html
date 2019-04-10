@@ -135,7 +135,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
-{% if post.tags contains "sticky" %}
+{% if post.tags contains "Shadowsocks" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
@@ -144,7 +144,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">阅读更多</a>
             </div>
             <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{post.image | absolute_url}});">	
             </div>
