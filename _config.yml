@@ -2,7 +2,7 @@
 name: 'Gitgle'
 description: '科技新知分享'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logo.png'
 baseurl: '/'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
