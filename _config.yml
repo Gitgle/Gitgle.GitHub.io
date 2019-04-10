@@ -22,8 +22,8 @@ authors:
     Gitgle:
       name:           Gitgle
       site:           https://gitgle.github.io/
-      avatar:         https://gitgle.github.io/assets/images/logo.png
-      bio:            "https://gitgle.github.io/"
+      avatar:         /assets/images/logo.png
+      bio:            "科技新知分享 - Gitgle.github.io"
       email:          1417400@gmail.com
       twitter:        
  
