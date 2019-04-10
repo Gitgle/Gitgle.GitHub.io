@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadowrocket(小火箭)在线安装"
 categories: [ Gitgle ]
-image: assets/images/demo1.jpg
+image: assets/images/Shadowrocket.JPG
 ---
 
 小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位
