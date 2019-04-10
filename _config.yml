@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: Gitgle
-      avatar: '/assets/images/logo.png'
+      avatar: 'assets/images/logo.png'
       
   # all pages
   - scope:
