@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shadowrocket(小火箭)在线安装"
-categories: [ Jekyll ]
+categories: [ Gitgle ]
 image: assets/images/demo1.jpg
 ---
 ### Shadowrocket(小火箭)在线安装
