@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Shadowrocket(小火箭)在线安装"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### Shadowrocket(小火箭)在线安装
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位
 
-Jekyll also offers powerful support for code snippets:
+免费SS/SSR服务器节点获取：[Freeid.xyz](http://freeid.xyz/)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Shadowrocket在线安装，手机苹果游览器打开：[Freeid.xyz](http://freeid.xyz/)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+![](https://Gitgle.GitHub.io/Shadowrocket/Shadowrocket.PNG)
+
+
+
+Shadowrocket在线安装，手机苹果游览器打开：[Freeid.xyz](http://freeid.xyz/)
+
+
+免费SS/SSR服务器节点获取：[Freeid.xyz](http://freeid.xyz/)
