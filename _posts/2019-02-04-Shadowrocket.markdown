@@ -13,7 +13,7 @@ Shadowrocket在线安装，手机苹果游览器打开：[Freeid.xyz](http://fre
 
 
 
-![](https://Gitgle.GitHub.io/img/Shadowrocket.PNG)
+![](https://Gitgle.GitHub.io/images/Shadowrocket.PNG)
 
 
 
