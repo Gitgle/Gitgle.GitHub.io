@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "生命短暂，世界很大 - 免费SS/SSR节点帐号免费分享"
+title:  "免费SS/SSR节点帐号免费分享"
 author: Gitgle
 categories: [ Shadowsocks ]
 image: assets/images/home.jpg
 tags: [Shadowsocks]
 ---
 
-Life is short. The world is big.
+生命短暂，世界很大!
 
 Shadowsocks免费节点分享 [Freeid.xyz](https://freeid.xyz/)
 
