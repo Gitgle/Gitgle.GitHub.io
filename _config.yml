@@ -1,5 +1,5 @@
 # Site
-name: 'Gitgle.github.io'
+name: '4ss.org'
 description: '科技新知分享'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -23,7 +23,7 @@ authors:
       name:           Gitgle
       site:           https://gitgle.github.io/
       avatar:         'assets/images/logo.png'
-      bio:            "科技新知分享 - Gitgle.github.io"
+      bio:            "科技新知分享 - 4ss.org"
       email:          1417400@gmail.com
       twitter:        
  
