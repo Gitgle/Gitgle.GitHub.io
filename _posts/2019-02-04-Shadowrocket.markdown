@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shadowrocket(小火箭)在线安装"
-categories: [ Gitgle ]
+categories: [ Shadowrocket ]
 image: assets/images/Shadowrocket.JPG
 ---
 
