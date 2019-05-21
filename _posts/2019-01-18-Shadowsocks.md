@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "免费SS/SSR节点帐号"
+title:  "免费SS/SSR"
 author: Gitgle
 categories: [ Shadowsocks ]
 image: assets/images/home.jpg
