@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于我们"
 layout: page-sidebar
 permalink: "/about.html"
 image: "/assets/images/4.png"
