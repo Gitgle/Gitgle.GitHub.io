@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shadowrocket(小火箭)在线安装及教程"
-categories: [ Shadowrocket ]
+categories: [ Shadowrocket, Work ]
 image: assets/images/Shadowrocket.JPG
 ---
 
