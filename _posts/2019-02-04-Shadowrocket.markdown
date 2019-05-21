@@ -23,9 +23,11 @@ image: assets/images/Shadowrocket.JPG
 
 Shadowrocket 是一款基于 iOS新特性的 Shadowsocks 客户端。它可以做到全局代理，也可以根据网站来进行分流。它可以满足你的绝大的需求！
 
-***准备工作，你需要准备以下两样东西***
+### 准备工作，你需要准备以下两样东西
 
 1、下载 Shadowrocket （可以选择上面的在线安装或者登陆美区苹果账号自行购买）
+
+<a class="btn btn-danger" href="https://ios.freeid.xyz/">点击在线安装Shadowrocket软件</a>
 
 2、一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
 
