@@ -9,22 +9,17 @@ image: assets/images/Shadowrocket.JPG
 
 <hr>
 
-### Shadowrocket（小火箭）在线安装，手机苹果游览器打开：
+### Shadowrocket（小火箭）在线安装
 
-<a class="btn btn-danger" href="https://ios.freeid.xyz/">ios.Freeid.xyz</a>
+请在手机苹果游览器打开以下任意链接：
 
-<a class="btn btn-danger" href="https://i.shadowrocket.org/">i.Shadowrocket.org</a>
+<a class="btn btn-danger" href="https://ios.freeid.xyz/">ios.Freeid.xyz</a>   <a class="btn btn-danger" href="https://i.shadowrocket.org/">i.Shadowrocket.org</a>
 
 <hr>
 
 [![](https://gitgle.github.io/assets/images/Shadowrocket.PNG)](https://i.shadowrocket.org/)
 
 
-### SS/ShadowsocksR付費穩定服務器,一鍵接入,鏈接全球！
+### SS/ShadowsocksR付費穩定服務器！
 
-<a class="btn btn-danger" href="http://t.cn/ESZVCWD">付費穩定SS/SSR服務器获取</a>
-
-
-### SS/ShadowsocksR账号注册免费体验分享！
-
-<a class="btn btn-danger" href="http://t.cn/ESZVCWD">免费SS/SSR服务器节点获取</a>
+<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a>   <a class="btn btn-danger" href="http://t.cn/ESZVCWD">免费试用SS/SSR服务器节点获取</a>
