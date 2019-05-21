@@ -20,6 +20,6 @@ image: assets/images/Shadowrocket.JPG
 [![](https://raw.githubusercontent.com/Gitgle/Gitgle.GitHub.io/master/assets/images/xhj.jpg)](https://i.shadowrocket.org/)
 
 
-### SS/ShadowsocksR付費穩定服務器！
+### 【AD】SS/ShadowsocksR付費穩定服務器
 
 <a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a>   <a class="btn btn-danger" href="http://t.cn/ESZVCWD">免费试用SS/SSR服务器节点获取</a>
