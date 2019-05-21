@@ -29,7 +29,7 @@ Shadowrocket 是一款基于 iOS新特性的 Shadowsocks 客户端。它可以�
 
 2、一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
 
-<a class="btn btn-danger" href="https://s-s-r.github.io/">注册获取Shadowsocks账户</a>
+<a class="btn btn-danger" href="https://s-s-r.github.io/">点击注册获取Shadowsocks账户</a>
 
 ***添加 Shadowsocks 账户***
 
@@ -57,7 +57,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 打开Shadowrocket，点击右上角加号，在添加节点页面，将类型改为Subscribe，复制订阅地址粘贴到URL中，然后点击右上角完成即可。
 
-<a class="btn btn-danger" href="https://s-s-r.github.io/">注册获取订阅节点</a>
+<a class="btn btn-danger" href="https://s-s-r.github.io/">点击注册获取SS/SSR订阅节点</a>
 
 ![](https://raw.githubusercontent.com/Gitgle/Gitgle.GitHub.io/master/assets/images/s5.JPG)
 
