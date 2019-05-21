@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/4.png"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+肆速 <i class="fa fa-heart text-danger"></i> by  [@4SS.ORG](https://4ss.org/).
