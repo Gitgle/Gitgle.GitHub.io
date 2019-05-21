@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shadowrocket(小火箭)在线安装及入门使用教程"
+title:  "Shadowrocket(小火箭)在线安装及教程"
 categories: [ Shadowrocket ]
 image: assets/images/Shadowrocket.JPG
 ---
@@ -62,6 +62,8 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 ![](https://raw.githubusercontent.com/Gitgle/Gitgle.GitHub.io/master/assets/images/s6.png)
 
 回到首页，打开连接开关，享受科学上网吧！
+
+<hr>
 
 ### 【AD】SS/ShadowsocksR付費穩定服務器
 
