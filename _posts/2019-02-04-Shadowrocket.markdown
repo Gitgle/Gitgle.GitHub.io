@@ -17,7 +17,7 @@ image: assets/images/Shadowrocket.JPG
 
 <hr>
 
-[![](https://gitgle.github.io/assets/images/Shadowrocket.PNG)](https://i.shadowrocket.org/)
+[![](assets/images/xhj.jpg)](https://i.shadowrocket.org/)
 
 
 ### SS/ShadowsocksR付費穩定服務器！
