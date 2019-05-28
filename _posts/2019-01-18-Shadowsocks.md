@@ -9,6 +9,24 @@ tags: [Shadowsocks]
 
 生命短暂，世界很大!
 
+### 免费美国SS/SSR节点
+<hr>
+I  P	    : freeid.4ss.org
+ 端口	    : 8888
+ 密码	    : https://4ss.org
+ 加密	    : aes-256-cfb
+ 协议	    : origin
+ 混淆	    : plain
+ 
+ ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly80c3Mub3JnQGZyZWVpZC40c3Mub3JnOjg4ODg=
+ 
+ ssr://MTA0LjE5Mi44My4xMDc6ODg4ODpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YUhSMGNITTZMeTgwYzNNdWIzSm4
+ 
+<hr>
+
+
+
+
 【AD】Shadowsocks免费节点分享 [Freeid.xyz](https://freeid.xyz/)
 
 【AD】免费SS/SSR节点帐号免费分享 [Go.Freeid.xyz](https://Go.freeid.xyz/)
