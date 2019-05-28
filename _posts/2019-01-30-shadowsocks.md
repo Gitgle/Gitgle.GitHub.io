@@ -3,7 +3,7 @@ layout: post
 title:  "全平台设备SS/SSR客户端下载地址汇总"
 author: Gitgle
 categories: [ Shadowsocks, work ]
-image: assets/images/15.jpg
+image: assets/images/Clients1.JPG
 ---
 ### Android/Windows/iOS/Mac/Linux SS/SSR客户端下载地址汇总
 
