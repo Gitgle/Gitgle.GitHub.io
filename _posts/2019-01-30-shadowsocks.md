@@ -5,13 +5,15 @@ author: Gitgle
 categories: [ Shadowsocks, work ]
 image: assets/images/Clients1.JPG
 ---
-### Android/Windows/iOS/Mac/Linux SS/SSR客户端下载地址汇总
+### Android/Windows/iOS/Mac/Linux SS/SSR客户端下载地址汇总 
 
-#### [IOS-Shadowrocket](https://i.shadowrocket.org/)
+#### Shadowsocks官网： https://shadowsocks.org/
 
-#### [IOS-Quantumult](https://q.shadowrocket.org/)
+#### <i class="fa fa-apple"></i> [IOS-Shadowrocket](https://i.shadowrocket.org/)
 
-#### [IOS-Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
+#### <i class="fa fa-apple"></i> [IOS-Quantumult](https://q.shadowrocket.org/)
+
+#### <i class="fa fa-apple"></i> [IOS-Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
 
 #### <i class="fa fa-apple"></i> [IOS-Outline](https://itunes.apple.com/us/app/outline-app/id1356177741)
 
@@ -24,3 +26,5 @@ image: assets/images/Clients1.JPG
 #### <i class="fa fa-apple"></i> [Mac](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
 
 #### <i class="fa fa-linux"></i> [Linux](https://github.com/shadowsocks/shadowsocks-qt5/wiki)
+
+
