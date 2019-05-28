@@ -11,6 +11,10 @@ image: assets/images/15.jpg
 
 #### [IOS-Quantumult](https://q.shadowrocket.org/)
 
+#### [IOS-Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
+
+#### [IOS-Outline](https://itunes.apple.com/us/app/outline-app/id1356177741)
+
 #### [Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 #### [Android-Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
