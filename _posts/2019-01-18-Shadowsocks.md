@@ -12,10 +12,15 @@ tags: [Shadowsocks]
 ### 免费美国SS/SSR节点
 <hr>
 I  P	    : freeid.4ss.org
+
  端口	    : 8888
+ 
  密码	    : https://4ss.org
+ 
  加密	    : aes-256-cfb
+ 
  协议	    : origin
+ 
  混淆	    : plain
  
  ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly80c3Mub3JnQGZyZWVpZC40c3Mub3JnOjg4ODg=
