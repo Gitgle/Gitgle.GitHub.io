@@ -9,7 +9,7 @@ image: assets/images/Clients1.JPG
 
 #### Shadowsocks官网：[https://shadowsocks.org](https://shadowsocks.org/)
 
-#### <i class="fa fa-apple"></i> [IOS-Shadowrocket](https://i.shadowrocket.org/)
+#### <i class="fa fa-apple"></i> [IOS-Shadowrocket](https://shadowsocks-help.github.io/ios)
 
 #### <i class="fa fa-apple"></i> [IOS-Quantumult](https://q.shadowrocket.org/)
 
@@ -31,4 +31,4 @@ image: assets/images/Clients1.JPG
 
 ### 【AD】SS/ShadowsocksR付費穩定服務器
 
-<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a>   <a class="btn btn-danger" href="http://t.cn/ESZVCWD">免费试用SS/SSR服务器节点获取</a>
+<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a>   
